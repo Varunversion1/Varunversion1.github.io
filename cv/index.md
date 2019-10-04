@@ -2,6 +2,9 @@
 layout: page
 title : Varun Ramesh CV
 ---
+<style>
+.theBlackBackground {background-color:#000;color: red;}
+</style>
 >
 >
 >##  **Varun Ramesh** _Curriculum Vitae_ ##
