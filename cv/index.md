@@ -3,7 +3,9 @@ layout: page
 title : Varun Ramesh CV
 ---
 ## **Varun Ramesh** _Curriculum Vitae_ ##
->" Various jobs i have had over the years "
+
+>[Linkedin Profile](https://www.linkedin.com/in/varun-ramesh-4a278059/)
+>**Various jobs i have had over the years**
 
 	 * Senior Technical Support for Dell International Services
      * Subtitling for Digital Deluxe Studios
