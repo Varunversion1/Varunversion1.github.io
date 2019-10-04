@@ -1,3 +1,5 @@
 name : Varunversion1
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+kramdown:  
+  parse_block_html: true
