@@ -3,7 +3,7 @@ layout: page
 title : Varun Ramesh CV
 ---
 ## **Varun Ramesh** _Curriculum Vitae_ ##
->"Various jobs i have had over the years"
+>" Various jobs i have had over the years "
 
 	 * Senior Technical Support for Dell International Services
      * Subtitling for Digital Deluxe Studios
