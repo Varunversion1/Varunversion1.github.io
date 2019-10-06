@@ -9,9 +9,9 @@ date: 2019-10-06
 >
 > Here are some of the challenges i faced along the way
 >
-> Markdown not playing well with Jekyll - all the code just showed up as is on the site 
->  Solution - Renamed the file type from .html to .md and then it started working
+> Markdown not playing well with Jekyll - all the code just showed up as is on the site.
+>  **Solution** - Renamed the file type from .html to .md and then it started working
 >
-> Tried to get LinkedIn profile to open in a new tab
-> Solution - Markdown doesn't allow this so after going through various stackoverflow and other sites for a solution realised there is no simple solution for this yet. 
+> Tried to get LinkedIn profile to open in a new tab.
+> **Solution** - Markdown doesn't allow this so after going through various stackoverflow and other sites for a solution realised there is no simple solution for this yet. 
  
