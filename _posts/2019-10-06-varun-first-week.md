@@ -4,8 +4,8 @@ title: "Varun Ramesh, Beginner Maker, 1 week at Workbench Projects"
 date: 2019-10-06
 ---
 
-Started from **nothing** and now I know how to make a static webpage in Github using Jekyll and Markdown. 
-Created a CV page and inserted a picture of my face and a Link to my LinkedIn profile for the page.
+> Started from **nothing** and now I know how to make a static webpage in Github using Jekyll and Markdown. 
+> Created a CV page and inserted a picture of my face and a hyperlink to my LinkedIn profile for the page.
 >
 > Here are some of the challenges i faced along the way
 > Markdown not playing well with Jekyll - all the code just showed up as is on the site 
