@@ -15,7 +15,7 @@ date: 2019-10-06
 > 
 > Created a [CV page](https://varunversion1.github.io/cv/) and inserted a picture of my face and a hyperlink to my LinkedIn profile for the page.
 >
->![](Images/Week01/Face.jpg)
+>![](/Images/Week01/Face.jpg)
 >
 > Here are some of the challenges i faced along the way
 >
