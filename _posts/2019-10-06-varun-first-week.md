@@ -11,11 +11,11 @@ date: 2019-10-06
 >
 >Downloaded [Github Desktop](https://desktop.github.com) for editing website offline or on the go. Also got [Sublime Text](https://www.sublimetext.com) for editing my text.
 >
-> Next i used [This Guide](https://www.markdowntutorial.com/) to learn the basics of Markdown. Markdown is very easy to learn but it can only be used for very specific things.
+> Next i used [Markdown Tutorial](https://www.markdowntutorial.com/) to learn the basics of Markdown. Markdown is very easy to learn but it can only be used for very specific things.
 > 
 > Created a [CV page](https://varunversion1.github.io/cv/) and inserted a picture of my face and a hyperlink to my LinkedIn profile for the page.
 
-![](../Images/Week01/Face.jpg)
+![](./Images/Week01/Face.jpg)
 >
 > Here are some of the challenges i faced along the way
 >
