@@ -5,7 +5,7 @@ date: 2019-10-06
 ---
 
 > Started from **nothing** and now I know how to make a static webpage in Github using Jekyll and Markdown, here's how i went about it.
-> First learned the basics of Creating and hosting a page on Github using [This Tutorial](http://jmcglone.com/guides/github-pages/)
+> First learned the basics of Creating and hosting a page on Github using [Guide to hosting on Github](http://jmcglone.com/guides/github-pages/)
 >
 >This was my [first attempt at the page](https://varunversion1.github.io) basically adapting the tutorial to my needs.
 >
@@ -14,6 +14,8 @@ date: 2019-10-06
 > Next i used [This Guide](https://www.markdowntutorial.com/) to learn the basics of Markdown. Markdown is very easy to learn but it can only be used for very specific things.
 > 
 > Created a [CV page](https://varunversion1.github.io/cv/) and inserted a picture of my face and a hyperlink to my LinkedIn profile for the page.
+
+![](../Images/Week01/Face.jpg)
 >
 > Here are some of the challenges i faced along the way
 >
