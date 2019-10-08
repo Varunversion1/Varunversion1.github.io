@@ -22,7 +22,7 @@ date: 2019-10-06
 >
 > * Markdown not playing well with Jekyll - all the code just showed up as is on the site. Discussed with mentor regarding this.
 >
-    * **Solution** - Turns out the file extension was .html which didnt play well with markdown. Renamed the file extension from .html to .md and then it started working
+    * **Solution** - Turns out the file extension was .html![](/Images/Week01/Html.PNG) which didnt play well with markdown. Renamed the file extension from .html to .md![](/Images/Week01/md.PNG) and then it started working
 >
 > * Tried to get LinkedIn profile to open in a new tab.
 >
