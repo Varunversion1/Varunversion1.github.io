@@ -13,9 +13,10 @@ date: 2019-10-06
 >
 > Next i used [Markdown Tutorial](https://www.markdowntutorial.com/) to learn the basics of Markdown. Markdown is very easy to learn but it can only be used for very specific things.
 > 
-> Created a [CV page](https://varunversion1.github.io/cv/) and inserted a picture of my face and a hyperlink to my LinkedIn profile for the page.
->
+> Created a [CV page](https://varunversion1.github.io/cv/) and inserted a picture of my face 
 >![](/Images/Week01/Face.jpg)
+>
+>Created a hyperlink to my [LinkedIn profile](https://www.linkedin.com/in/varun-ramesh-4a278059/) for the CV page.
 >
 > Here are some of the challenges i faced along the way
 >
