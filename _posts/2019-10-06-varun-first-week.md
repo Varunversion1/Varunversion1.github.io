@@ -5,8 +5,11 @@ date: 2019-10-06
 ---
 
 > Started from **nothing** and now I know how to make a static webpage in Github using Jekyll and Markdown, here's how i went about it.
-> First learned the basics of Creating and hosting a page on Github using [This Tutorial](http://jmcglone.com/guides/github.io)
->This was my [first attempt at the page](Varunversion1.github.io) basically adapting the tutorial to my needs.
+> First learned the basics of Creating and hosting a page on Github using [This Tutorial](http://jmcglone.com/guides/github-pages/)
+>
+>This was my [first attempt at the page](https://varunversion1.github.io) basically adapting the tutorial to my needs.
+>
+>Downloaded [Github Desktop](https://desktop.github.com) for editing website offline or on the go. Also got [Sublime Text](https://www.sublimetext.com) for editing my text.
 >
 > Next i used [This Guide](https://www.markdowntutorial.com/) to learn the basics of Markdown. Markdown is very easy to learn but it can only be used for very specific things.
 > 
