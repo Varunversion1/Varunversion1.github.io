@@ -17,3 +17,8 @@ date: 2019-10-13
 >Went to the woodshop and the shopmaster made me list out the various types of joints in woodworking.
 >
 >![](/Images/joints.jpg)
+>
+>The way to choose which joint to use mostly depends on a balance between looks and aesthetics.
+>
+>The Mitre joint might look very nice but it is a veery weak joint.
+>The dovetail on the otherhand looks detailed and is also very strong in certain directions.
