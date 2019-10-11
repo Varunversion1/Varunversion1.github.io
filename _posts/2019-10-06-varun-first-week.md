@@ -11,7 +11,7 @@ date: 2019-10-06
 >
 >Downloaded [Github Desktop](https://desktop.github.com) for editing website offline or on the go.
 >
->![](/Images/Week01/github.png =500x500)
+>![](/Images/Week01/github.png){:height="360px" width="360px"}
 >
 > Also got [Sublime Text](https://www.sublimetext.com) for editing my text.
 >
