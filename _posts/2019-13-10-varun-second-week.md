@@ -20,5 +20,5 @@ date: 2019-10-13
 >
 >The way to choose which joint to use mostly depends on a balance between looks and aesthetics.
 >
->The Mitre joint might look very nice but it is a veery weak joint.
+>The Mitre joint might look very nice but it is a very weak joint.
 >The dovetail on the otherhand looks detailed and is also very strong in certain directions.
