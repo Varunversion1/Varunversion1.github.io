@@ -15,7 +15,7 @@ date: 2019-10-06
 >
 > Also got [Sublime Text](https://www.sublimetext.com) for editing my text.
 >
->![](/Images/Week01/sublime.png)
+>![](/Images/Week01/sublime.png){:height="360px" width="500px"}
 >
 > Next i used [Markdown Tutorial](https://www.markdowntutorial.com/) to learn the basics of Markdown. Markdown is very easy to learn but it can only be used for very specific things.
 > 
