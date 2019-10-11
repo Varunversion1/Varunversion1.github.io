@@ -11,4 +11,9 @@ date: 2019-10-13
 >Learned to use windows Sniping tool with Paint 3D to get some pictures into my blogposts to better explain the steps i was taking.
 >
 >Used Stack Overflow and google to find out how to resize images using Cramdown 
-
+>
+>Took a break from website making and blogposts to learn a bit of woodworking for a change of pace
+>
+>Went to the woodshop and the shopmaster made me list out the various types of joints in woodworking.
+>
+>![](/Images/joints.jpg)
