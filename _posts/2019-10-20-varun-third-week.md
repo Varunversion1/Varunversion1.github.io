@@ -11,6 +11,8 @@ Went and took pictures of all the Various Machines i would be working with and t
 >![](/Images/Week03/3DPrinter2.jpg){:height="360px" width="500px"}
 >![](/Images/Week03/3DPrinter3.jpg){:height="360px" width="500px"}
 >
+>First thing i want to 3d print is a lens Protector for my Oculus Quest VR headset. I found the necessary files on [Thingiverse](https://www.thingiverse.com/thing:3653631) 
+>  
 >## Laser Cutter ##
 >
 >![](/Images/Week03/LaserCutter.jpg){:height="360px" width="500px"}
