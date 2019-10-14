@@ -32,11 +32,15 @@ Went and took pictures of all the Various Machines i would be working with and t
 >Want a Tesla Mug really bad :)
 >![](/Images/Week03/teslamug.jpg){:height="360px" width="500px"}
 >
->## Tshirt Printer ##
+>## T-Shirt Printer ##
 >
 >![](/Images/Week03/TshirtPrinter.jpg){:height="360px" width="500px"}
+>
+>Trying to come up with some custom designs at the moment.
 >
 >## Sticker Cutter ##
 >
 >![](/Images/Week03/StickerCutter.jpg){:height="360px" width="500px"}
+>
+>Print stickers for my friends to show them what is possible in my maker space
 >
