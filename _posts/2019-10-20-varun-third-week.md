@@ -3,3 +3,10 @@ layout: post
 title: "Varun Ramesh, Beginner Maker, 3 weeks at Workbench Projects"
 date: 2019-10-20
 ---
+Went and took pictures of all the Various Machines i would be working with and tried to figure out what i could make using all of them. Here is a list :
+>
+>## 3D Printers ## 
+>
+>![](/Images/Week03/3DPrinter1.jpg)
+>![](/Images/Week03/3DPrinter2.jpg)
+>![](/Images/Week03/3DPrinter3.jpg)
