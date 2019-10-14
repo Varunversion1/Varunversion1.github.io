@@ -7,6 +7,6 @@ Went and took pictures of all the Various Machines i would be working with and t
 >
 >## 3D Printers ## 
 >
->![](/Images/Week03/3DPrinter1.jpg)
->![](/Images/Week03/3DPrinter2.jpg)
->![](/Images/Week03/3DPrinter3.jpg)
+>![](/Images/Week03/3DPrinter1.jpg){:height="360px" width="500px"}
+>![](/Images/Week03/3DPrinter2.jpg){:height="360px" width="500px"}
+>![](/Images/Week03/3DPrinter3.jpg){:height="360px" width="500px"}
