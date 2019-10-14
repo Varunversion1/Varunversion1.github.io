@@ -15,3 +15,7 @@ Went and took pictures of all the Various Machines i would be working with and t
 >
 >![](/Images/Week03/LaserCutter.jpg){:height="360px" width="500px"}
 >
+>## Laser Engraver ##
+>
+>![](/Images/Week03/LaserEngraver.jpg){:height="360px" width="500px"}
+>
