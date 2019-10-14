@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Varun Ramesh, Beginner Maker, 3 weeks at Workbench Projects"
+title: "Varun Ramesh, Beginner Maker, 2 weeks at Workbench Projects"
 date: 2019-10-20
 ---
 Went and took pictures of all the Various Machines i would be working with and tried to figure out what i could make using all of them. Here is a list :
