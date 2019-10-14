@@ -10,3 +10,8 @@ Went and took pictures of all the Various Machines i would be working with and t
 >![](/Images/Week03/3DPrinter1.jpg){:height="360px" width="500px"}
 >![](/Images/Week03/3DPrinter2.jpg){:height="360px" width="500px"}
 >![](/Images/Week03/3DPrinter3.jpg){:height="360px" width="500px"}
+>
+>## Laser Cutter ##
+>
+>![](/Images/Week03/LaserCutter.jpg){:height="360px" width="500px"}
+>
