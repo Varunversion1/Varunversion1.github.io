@@ -36,6 +36,8 @@ date: 2019-10-06
 >
 >Made my first Youtube Video - Just a brief introduction of my goal and how i plan to achieve it.
 >
+><iframe width="560" height="315" src="https://www.youtube.com/embed/gCp9pp14Pnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>
 >Embedded my Video into my Website and started to update my blog with everything i am learning.
 >
 >Learned to use windows Sniping tool with Paint 3D to get some pictures into my blogposts to better explain the steps i was taking.
