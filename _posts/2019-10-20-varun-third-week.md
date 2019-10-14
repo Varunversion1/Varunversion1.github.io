@@ -19,3 +19,15 @@ Went and took pictures of all the Various Machines i would be working with and t
 >
 >![](/Images/Week03/LaserEngraver.jpg){:height="360px" width="500px"}
 >
+>## Mug Printer ##
+>
+>![](/Images/Week03/MugPrinter.jpg){:height="360px" width="500px"}
+>
+>## Tshirt Printer ##
+>
+>![](/Images/Week03/TshirtPrinter.jpg){:height="360px" width="500px"}
+>
+>## Sticker Cutter ##
+>
+>![](/Images/Week03/StickerCutter.jpg){:height="360px" width="500px"}
+>
