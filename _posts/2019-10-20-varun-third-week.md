@@ -18,7 +18,7 @@ Went and took pictures of all the Various Machines i would be working with and t
 >![](/Images/Week03/LaserCutter.jpg){:height="360px" width="500px"}
 >
 >Want to try and make a basic box with the laser cutter for storing small items like jewellery etc.
->Something alone the lines of ![](https://in.pinterest.com/pin/155303887160277693/)
+>Something alone the lines of [Jewellery box](https://in.pinterest.com/pin/155303887160277693/)
 >
 >## Laser Engraver ##
 >
