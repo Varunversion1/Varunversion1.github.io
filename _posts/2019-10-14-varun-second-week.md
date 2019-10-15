@@ -30,7 +30,7 @@ Went and took pictures of all the Various Machines i would be working with and t
 >
 >Engrave a picture onto the top of the box previously created using laser cutter to give it some distinguishing features.
 >
->Here is my basic sketch of the design ![](/Images/Week03/BoxEngraving.jpg){:height="360px" width="500px"}
+>Here is my basic sketch of the engraving ![](/Images/Week03/BoxEngraving.jpg){:height="360px" width="500px"}
 >
 >## Mug Printer ##
 >
