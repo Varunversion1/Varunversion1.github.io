@@ -13,4 +13,6 @@ date: 2019-10-21
 ><iframe src="https://giphy.com/embed/cO2NUE0yOpAEHs4QG3" width="458" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cO2NUE0yOpAEHs4QG3">via GIPHY</a></p>
 >
 >Here is a GIF i created of the final process of gluing together the sides to create our battery box.
+>
+
 
