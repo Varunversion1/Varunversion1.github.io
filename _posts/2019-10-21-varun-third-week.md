@@ -22,6 +22,7 @@ date: 2019-10-21
 >Before
 >
 >![](/Images/Week03/BoxSketch.jpg){:height="360px" width="500px"}
+>
 >After
 >
 >![](/Images/Week03/FinishedBox.jpg){:height="360px" width="500px"}
