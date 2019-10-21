@@ -15,7 +15,7 @@ date: 2019-10-21
 >Here is a GIF i created of the final process of gluing together the sides to create our battery box.
 >
 >Here is a Video of me downloading a box file off [Instructables](https://www.instructables.com/id/Laser-Cut-Jewelry-Box/)
->editing it to fit my MDF board thickness and then cutting it out with the laser cutter. Backgrond music for a little extra flair.
+>editing it to fit my MDF board thickness and then cutting it out with the laser cutter. Background music for a little extra flair.
 >
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/zHN5rGnsAMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >
