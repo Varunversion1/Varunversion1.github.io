@@ -19,7 +19,9 @@ date: 2019-10-21
 >
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/zHN5rGnsAMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >
->Before ![](/Images/Week03/BoxSketch.png){:height="360px" width="500px"}
->After ![](/Images/Week03/FinishedBox.png){:height="360px" width="500px"}
+>Before
+>![](/Images/Week03/BoxSketch.jpg){:height="360px" width="500px"}
+>After
+>![](/Images/Week03/FinishedBox.jpg){:height="360px" width="500px"}
 >
 
