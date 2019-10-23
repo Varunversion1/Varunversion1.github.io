@@ -22,9 +22,9 @@ date: 2019-10-21
 >
 >Here is a GIF i created of the final process of gluing together the sides to create our battery box.
 >
->This is my editing of the file using Corel Draw
->![](/Images/Week04/jbox.jpg){:height="360px" width="500px"}
-![](/Images/Week04/jbox2.jpg){:height="360px" width="500px"}
+>This is my editing of the file using Corel Draw X7
+>
+>![](/Images/Week04/jbox.jpg){:height="360px" width="500px"} ![](/Images/Week04/jbox2.jpg){:height="360px" width="500px"}
 >Here is a Video of me downloading a box file off [Instructables](https://www.instructables.com/id/Laser-Cut-Jewelry-Box/)
 >editing it to fit my MDF board thickness and then cutting it out with the laser cutter. The redesign to match my board thickness took a couple of hours and the cutting just a few minutes. Background music for a little extra flair.
 >
