@@ -24,7 +24,7 @@ date: 2019-10-28
 >
 >The finished product should look something like this.
 > 
->![](/Images/Week05/concbowl.PNG){:height="360px" width="500px"}
+>![](/Images/Week05/concbowl.jpg){:height="360px" width="500px"}
 
 >Next i tried Sketchup to try and create the basis for a computer case.
 >
