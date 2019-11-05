@@ -28,4 +28,6 @@ date: 2019-10-28
 
 >Next i tried Sketchup to try and create the basis for a computer case.
 >
+>![](/Images/Week05/compcase.jpg){:height="360px" width="500px"}
+>I got the basic template for the IO shield which would be part of any case. 
 
