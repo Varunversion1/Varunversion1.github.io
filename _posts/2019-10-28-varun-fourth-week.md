@@ -17,7 +17,7 @@ date: 2019-10-28
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/7SRkALUGXDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >
 >I used this tutorial to get familiar with the basics and used it to design a simple bowl consisting of concentric circles. 
->![](/Images/Week05/bowl.PNG){:height="360px" width="500px"}
+>![](/Images/Week05/bowl.PNG){:height="500px" width="500px"}
 >
 >The design consists of 2 sets of concentric circles with a difference of 5mm between the 2 sets.
 >The final bowl would consist of alteratively glueing pieces from each set to form a bowl shape.
