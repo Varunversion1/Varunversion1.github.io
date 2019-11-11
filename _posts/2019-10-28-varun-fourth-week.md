@@ -26,9 +26,8 @@ date: 2019-10-28
 > 
 >![](/Images/Week05/concbowl.jpg){:height="360px" width="500px"}
 
->Next i tried Sketchup to try and create the basis for a computer case.
+>Next i tried Tinkercad to try and create a basic mug in 3D
 >
->![](/Images/Week05/compcase.PNG){:height="360px" width="500px"}
+>![Mug Tinkercad](https://www.tinkercad.com/things/aEAq6xgNzQy-smashing-migelo-elzing/edit?sharecode=Eq_LPXYjkOIX80wdbMtOtM1eAyEMOwFvurtt4zF2XOg=)
 >
->I got the basic template for the IO shield which would be part of any case. 
 
