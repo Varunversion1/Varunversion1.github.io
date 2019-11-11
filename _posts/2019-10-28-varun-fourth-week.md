@@ -28,6 +28,6 @@ date: 2019-10-28
 
 >Next i tried Tinkercad to try and create a basic mug in 3D
 >
->![Mug Tinkercad](https://www.tinkercad.com/things/aEAq6xgNzQy-smashing-migelo-elzing/edit?sharecode=Eq_LPXYjkOIX80wdbMtOtM1eAyEMOwFvurtt4zF2XOg=)
+>[Mug Tinkercad](https://www.tinkercad.com/things/aEAq6xgNzQy-tesla-mug/edit)
 >
 
