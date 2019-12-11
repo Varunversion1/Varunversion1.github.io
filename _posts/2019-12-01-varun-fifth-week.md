@@ -17,8 +17,8 @@ date: 2019-12-01
 >Here are some of the projects i did using this kit.
 >
 >1. LED FLASHING
->![](/Images/Week06/blinkingled.jpg)
+>![](/Images/Week06/blinkingled.jpg){:height="500px" width="500px"}
 >
 >2. SOS DISTRESS SIGNAL
->![](/Images/Week06/sos.mp4)
+>![](/Images/Week06/sos.mp4){:height="500px" width="500px"}
 >
